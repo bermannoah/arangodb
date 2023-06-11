@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
   s.name        = "arangodb"
-  s.version     = "1.0.2"
-  s.description = "Do not use this! This could be a malicious gem because you didn't check if the code ChatGPT wrote for you referenced a real gem or not. Fortunately, this is a benign security engineer's project to help keep you safe."
+  s.version     = "1.0.3"
+  s.description = "Do not use this! This could be a malicious gem because you didn't check if the code ChatGPT wrote for you referenced a real gem or not. Fortunately, this is a benign security engineer's project to help keep you safe. See more: https://vulcan.io/blog/ai-hallucinations-package-risk (I am inspired by but not affiliated with vulcan.io)"
   s.summary     = "A ChatGPT honeypot :("
   s.authors     = ["Noah Berman"]
   s.email       = "noah@noahberman.org"
